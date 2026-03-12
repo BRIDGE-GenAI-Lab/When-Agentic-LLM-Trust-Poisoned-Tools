@@ -1,7 +1,6 @@
-# Case-Calling Evaluation Harness
+# When Agentic LLMs Trust Poisoned Tools: Vulnerability of Clinical LLMs to Adversarial Guidelines
 
-**Paper under review:** *When Agentic LLMs Trust Poisoned Tools: Vulnerability of Clinical LLMs to Adversarial Guidelines*
-
+**Paper under review:** 
 **Authors:** Alon Gorenshtein, Mahmud Omar, Yiftach Barash, Girish N Nadkarni, Eyal Klang.
 Code developed by **Alon Gorenshtein**.
 
